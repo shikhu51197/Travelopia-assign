@@ -1,9 +1,39 @@
-# Travelopia-assign
 
+
+# 💻 PROJECT NAME ✨ => 💻  Travelopia-assign
+> 
+<br>
+
+[![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-FFF?style=for-the-badge&logo=ko-fi&logoColor=black)](https://travelopia-assign.vercel.app/)
+
+
+
+## 🔗 Profile Links✨
+
+
+
+
+| Resume | Github                                                                                                                                   | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    | Blogger                                                                                                                                                           | Medium                                                                                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Resume](https://img.shields.io/badge/my_Resume-E75480?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1YE62u2ChjmlR-EKeqZ75UvFMg_KcY86T/view?usp=sharing) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://shikhu51197.github.io/) |[![Blogger](https://img.shields.io/badge/Blogger-FE5A1D?style=for-the-badge&logo=Blogger&logoColor=white)](https://wwwartificial-intelligence.blogspot.com/) |[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sg780060) |  
+
+
+## 💫Tech-Stack->
+
+- #### For Frontend:-
+   - `HTML5`
+  - `CSS3`
+  - `JavaScript `
+      
+- #### For live Project: -
+   - `Vercel`
+   
+---
+## ⭕About project:
 
 # Armenia Tours Website
 
-Welcome to the Armenia Tours website! This project showcases a responsive website for a travel company offering tours to Armenia. Explore the rich cultural and natural environment of this beautiful destination.
+💻 Welcome to the Armenia Tours website! This project showcases a responsive website for a travel company offering tours to Armenia. Explore the rich cultural and natural environment of this beautiful destination.
 
 ## Features
 
@@ -47,3 +77,20 @@ The code has been optimized for performance by implementing the following:
 ⭕Setting explicit width and height for images to improve CLS.
 ⭕Asynchronous loading of non-critical JavaScript.
 ⭕Critical CSS is inlined for faster initial rendering.
+
+---
+
+## Flow
+
+```mermaid
+graph TD;
+ App-->HomePage
+
+
+```
+
+---
+
+
+
+<h1 align="center">✨Thank You✨</h1>
